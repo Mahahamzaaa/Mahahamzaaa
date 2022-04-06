@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahahamzaaa
-- 👀 I’m interested in Development Coding
-- 🌱 I’m currently learning Android
+- 👀 I’m interested in Development Coding & DevOps 
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
